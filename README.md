@@ -39,7 +39,11 @@ Wassup Chat App uses **Socket.IO** to create a persistent connection between the
 
 ### ✅ 👍 terminal command
 npm init -y
+
+
 npm install express socket.io
+
+
 node server.js
 
 
